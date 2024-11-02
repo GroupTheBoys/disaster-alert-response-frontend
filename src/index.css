@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Add this to your index.css or a new css file */
+@import 'leaflet/dist/leaflet.css';
